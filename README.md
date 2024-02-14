@@ -23,9 +23,7 @@ Der Zufällige Passwortgenerator ist ein einfaches JavaScript-Projekt, das entwi
 
 ## Mitwirken
 Beiträge sind willkommen! Wenn du zu diesem Projekt beitragen möchtest, bitte forke das Repository und reiche einen Pull-Request mit deinen Änderungen ein.
-
-## Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE)-Datei für Details.
+.
 
 ## Dank
 - Dieses Projekt wurde durch die Notwendigkeit eines einfachen und sicheren Passwortgenerators inspiriert.
